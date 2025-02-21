@@ -1,10 +1,10 @@
-import { Accordion } from "./components/accordion/Accordion.jsx";
+
+import { RandomColor } from "./components/randomColor/RandomColor";
 
 export default function App() {
   return (
-    <div className=" ">
-      <Accordion />
+    <div>
+      <RandomColor />
     </div>
   )
 }
-
