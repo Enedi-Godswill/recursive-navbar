@@ -1,6 +1,6 @@
 
 import { useState } from "react"
-import { accordData } from "./data/accord"
+import { accordData } from "./accord.js"
 
 export function Accordion(){
 
