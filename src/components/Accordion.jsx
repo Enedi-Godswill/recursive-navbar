@@ -25,7 +25,7 @@ export function Accordion(){
         
     }
 
-    console.log(selected, multiple);
+    // console.log(selected, multiple);
     
 
     return(
