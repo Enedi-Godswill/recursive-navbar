@@ -1,5 +1,5 @@
-# Random Color Development
+# Star Rating
 
-### This is a second project which is a random color Development project
+### This is a third project which includes creating a system for rating using stars.
 
 
