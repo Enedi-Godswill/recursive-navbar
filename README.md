@@ -1,5 +1,5 @@
-# Star Rating
+# Image Slider Project
 
-### This is a third project which includes creating a system for rating using stars.
+### Finally gonna learn how to make a simple image slider.
 
 
