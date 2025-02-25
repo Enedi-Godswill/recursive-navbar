@@ -8,7 +8,7 @@ export default function App() {
     <div>
       {/* <Accordion />  */}
       {/* <RandomColor /> */}
-      <StarRating />
+      <StarRating noOfStars={8} />
     </div>
   )
 }

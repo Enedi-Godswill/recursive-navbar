@@ -14,4 +14,8 @@
     a{
         @apply cursor-pointer;
     }
+    /* special styles */
+    .btn{
+        @apply border-0 bg-white text-black;
+    }
 }
