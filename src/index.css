@@ -4,8 +4,11 @@
     *{
         @apply m-0 p-0 box-border;
     }
+    input{
+        @apply border-2 border-black p-1 rounded-md;
+    }
     button{
-        @apply capitalize bg-black text-white hover:bg-white hover:text-black transition-all p-1 rounded-md;
+        @apply capitalize bg-black text-white hover:bg-white hover:text-black hover:border-2 transition-all p-1 rounded-md;
     }
     img{
         @apply w-full;
@@ -19,3 +22,4 @@
         @apply border-0 bg-white text-black;
     }
 }
+
